@@ -5,7 +5,7 @@
 ~~OOPS I made an error~~
 >this text is quote
 ```
-xvvvxcvxcvvcx
-cvxcvxcvxvxc
-fdfdsfsd
+my name is umais
+this my 2nd lab
+today is 27-08-24
 ```
