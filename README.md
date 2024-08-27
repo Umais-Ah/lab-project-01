@@ -7,5 +7,4 @@
 ```
 my name is umais
 this my 2nd lab
-today is 27-08-24
 ```
